@@ -1,0 +1,42 @@
+#nav-area .my-nav {
+  padding-left: 50px;
+}
+
+.header-content {
+  margin-left: 43px;
+}
+
+.header-content .my-header-content {
+  background-color: gray;
+}
+
+#content a {
+  background-color: white;
+  color: black;
+  border-color: black;
+}
+
+#content {
+  margin-left: 50px;
+}
+
+#content .card {
+  margin-top: 28px;
+}
+
+.sidebar {
+  height: 420px;
+  width: 200px;
+  padding: 11px;
+  margin-top: 26px;
+  border: 0.5px solid rgb(0, 0, 0, 0.2);
+  background-color: rgb(239 234 234);
+}
+
+.sidebar ul {
+  list-style: none;
+}
+
+.sidebar ul li {
+  color: blue;
+}
